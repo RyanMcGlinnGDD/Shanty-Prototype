@@ -1,4 +1,6 @@
 # Shanty-Prototype
+"A song with alternating solo and chorus, of a kind originally sung by sailors while on voyages at sea." 
+
 Shanty functions as a music player app with the specialized functionality of generating short playlists based on the user’s preferences at the time of creation.
 
 Users will specify a time frame representing the approximate duration of the playlist they wish to create.
